@@ -5,7 +5,7 @@ public class Main {
 
         DataStore dataStore = new DataStore();
 
-        dataStore.setStore = "B";
+        dataStore.setStore("B");
 
     }
 }

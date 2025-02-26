@@ -32,6 +32,6 @@ public class Robot {
         this.rightLeg = power;
         this.leftArm = power;
         this.rightArm = power;
-
     }
+
 }
